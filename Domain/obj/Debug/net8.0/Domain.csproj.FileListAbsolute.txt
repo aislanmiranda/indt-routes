@@ -1,0 +1,11 @@
+/Users/aislanmiranda/Projects/indt/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/aislanmiranda/Projects/indt/Domain/bin/Debug/net8.0/Domain.dll
+/Users/aislanmiranda/Projects/indt/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/aislanmiranda/Projects/indt/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aislanmiranda/Projects/indt/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/aislanmiranda/Projects/indt/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/aislanmiranda/Projects/indt/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/aislanmiranda/Projects/indt/Domain/obj/Debug/net8.0/Domain.dll
+/Users/aislanmiranda/Projects/indt/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/aislanmiranda/Projects/indt/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/aislanmiranda/Projects/indt/Domain/obj/Debug/net8.0/ref/Domain.dll
